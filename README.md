@@ -23,6 +23,6 @@ register.php --> login.js, register.css, check_email.php, check_username.php
 
 spotify.php --> spotify.css, spotify.js, aggiungi_cronologia_spotify.php, elimina_cronologia_spotify.php, mostra_cronologia_spotify.php, token_spotify.php
 
-crea_lista.php --> crea_lista.css, crea_lista.js, carica_liste.php, fetch_books.php, get_books.php, gestione_form.php, query_lista.php, visualizza_valori_lista.php
+crea_lista.php --> crea_lista.css, crea_lista.js, carica_liste.php, fetch_books.php, gestione_form.php, query_lista.php, visualizza_valori_lista.php
 
 # hw1.sql è il db estratto da phpmyadmin
